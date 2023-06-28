@@ -54,7 +54,7 @@
 
 # 相机标定
 
-![name](./Capture1.PNG)
+![name](Capture14.PNG)
 
 # SLAM
 ## simultaneous localization and mapping
