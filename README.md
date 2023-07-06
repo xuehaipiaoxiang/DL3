@@ -92,6 +92,7 @@
 * 随选定的top-K 越来越多recall一定会越来越高，而precision整体上会呈下降趋势
 * 在目标检测中 mAP综合考量了localization 和 classification
 ![name](script1.jpg)
+![name](./Capture9.PNG)
 ## confidence
 ![name](./Capture10.PNG)
 
